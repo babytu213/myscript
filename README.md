@@ -145,7 +145,7 @@ Anim:AdjustSpeed(0.1)
 
 Anim.TimePosition = startTime
 
-Anim:AdjustSpeed(2)
+Anim:AdjustSpeed(3)
 
 
     end
@@ -184,7 +184,7 @@ end
 
 local AnimAnim = Instance.new("Animation")
 
-AnimAnim.AnimationId = "rbxassetid://18716698376"
+AnimAnim.AnimationId = "rbxassetid:// 17465453123"
 
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
@@ -198,7 +198,7 @@ Anim:AdjustSpeed(1)
 
 Anim.TimePosition = startTime
 
-Anim:AdjustSpeed(1.25)
+Anim:AdjustSpeed(2)
 
 
     end
@@ -253,7 +253,7 @@ Anim:AdjustSpeed(0)
 
 Anim.TimePosition = startTime
 
-Anim:AdjustSpeed(1.5)
+Anim:AdjustSpeed(1)
 
 
 delay(1.8, function()
@@ -314,7 +314,7 @@ Anim:AdjustSpeed(0)
 
 Anim.TimePosition = startTime
 
-Anim:AdjustSpeed(0.5)
+Anim:AdjustSpeed(1)
 
 
     end
@@ -629,13 +629,13 @@ local animationIdsToStop = {
 
 local replacementAnimations = {
 
-    ["10469493270"] = "rbxassetid://17325510002", --punch1
+    ["10469493270"] = "rbxassetid://15259161390", --punch1
 
-    ["10469630950"] = "rbxassetid://18715998497", --punch2
+    ["10469630950"] = "rbxassetid://18715736372", --punch2
 
-    ["10469639222"] = "rbxassetid://18716646083", --punch3
+    ["10469639222"] = "rbxassetid://18716143973", --punch3
 
-    ["10469643643"] = "rbxassetid://18716647575", --punch4
+    ["10469643643"] = "rbxassetid://18715999597", --punch4
 
     ["17859015788"] = "rbxassetid://12684185971", --punch idk
 
