@@ -145,7 +145,7 @@ Anim:AdjustSpeed(0.1)
 
 Anim.TimePosition = startTime
 
-Anim:AdjustSpeed(3)
+Anim:AdjustSpeed(3.5)
 
 
     end
@@ -184,7 +184,7 @@ end
 
 local AnimAnim = Instance.new("Animation")
 
-AnimAnim.AnimationId = "rbxassetid:// 17465453123"
+AnimAnim.AnimationId = "rbxassetid:// 135104210400610"
 
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
@@ -239,7 +239,7 @@ end
 
 local AnimAnim = Instance.new("Animation")
 
-AnimAnim.AnimationId = "rbxassetid://18716184869"
+AnimAnim.AnimationId = "rbxassetid://18179181663"
 
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
@@ -354,7 +354,7 @@ end
 
 local AnimAnim = Instance.new("Animation")
 
-AnimAnim.AnimationId = "rbxassetid://18716197426"
+AnimAnim.AnimationId = "rbxassetid://10503381238"
 
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
